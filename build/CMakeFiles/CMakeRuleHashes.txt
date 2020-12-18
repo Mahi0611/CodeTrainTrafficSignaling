@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+79875efe1594fbca95be84eebaa773fb CMakeFiles/TrainTrafficSignalingSystem_automoc
+fe619892fa479d7868457a7404876d6f Domain/CMakeFiles/Domain_automoc
+31578988029ce576ede647208474cdae GUIBackend/CMakeFiles/GUIBackend_automoc

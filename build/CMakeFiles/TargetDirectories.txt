@@ -1,0 +1,12 @@
+/workspace/TrainTrafficSignalingSystem/build/CMakeFiles/edit_cache.dir
+/workspace/TrainTrafficSignalingSystem/build/CMakeFiles/rebuild_cache.dir
+/workspace/TrainTrafficSignalingSystem/build/CMakeFiles/TrainTrafficSignalingSystem.dir
+/workspace/TrainTrafficSignalingSystem/build/CMakeFiles/TrainTrafficSignalingSystem_automoc.dir
+/workspace/TrainTrafficSignalingSystem/build/GUIBackend/CMakeFiles/edit_cache.dir
+/workspace/TrainTrafficSignalingSystem/build/GUIBackend/CMakeFiles/rebuild_cache.dir
+/workspace/TrainTrafficSignalingSystem/build/GUIBackend/CMakeFiles/GUIBackend.dir
+/workspace/TrainTrafficSignalingSystem/build/GUIBackend/CMakeFiles/GUIBackend_automoc.dir
+/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/edit_cache.dir
+/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/rebuild_cache.dir
+/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain.dir
+/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain_automoc.dir

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>common/Header.qml</file>
+        <file>screen/Simulation.qml</file>
+        <file>screen/Home.qml</file>
+        <file>screen/CreateTrainTrack.qml</file>
+        <file>common/ButtonCreator.qml</file>
+        <file>fonts/NotoSans-Regular.ttf</file>
+        <file>fonts/NotoSans-Bold.ttf</file>
+        <file>fonts/NotoMono-Regular.ttf</file>
+        <file>images/HomeTrain.png</file>
+        <file>common/MapCreatorWithLocation.qml</file>
+        <file>images/Create Train.png</file>
+        <file>images/Create Track.png</file>
+        <file>common/CreateTrain.qml</file>
+        <file>common/CreateTrack.qml</file>
+        <file>shortestPath/shortestPath.js</file>
+        <file>images/back_w.png</file>
+    </qresource>
+</RCC>
