@@ -68,7 +68,7 @@ CMakeFiles/TrainTrafficSignalingSystem.dir/all: Domain/CMakeFiles/Domain.dir/all
 CMakeFiles/TrainTrafficSignalingSystem.dir/all: CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/all
 	$(MAKE) -f CMakeFiles/TrainTrafficSignalingSystem.dir/build.make CMakeFiles/TrainTrafficSignalingSystem.dir/depend
 	$(MAKE) -f CMakeFiles/TrainTrafficSignalingSystem.dir/build.make CMakeFiles/TrainTrafficSignalingSystem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=11,12,13,14 "Built target TrainTrafficSignalingSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=13,14,15,16 "Built target TrainTrafficSignalingSystem"
 .PHONY : CMakeFiles/TrainTrafficSignalingSystem.dir/all
 
 # Include target in all.
@@ -78,7 +78,7 @@ all: CMakeFiles/TrainTrafficSignalingSystem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TrainTrafficSignalingSystem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/TrainTrafficSignalingSystem/build/CMakeFiles 15
+	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/TrainTrafficSignalingSystem/build/CMakeFiles 17
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/TrainTrafficSignalingSystem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/TrainTrafficSignalingSystem/build/CMakeFiles 0
 .PHONY : CMakeFiles/TrainTrafficSignalingSystem.dir/rule
@@ -105,7 +105,7 @@ clean: CMakeFiles/TrainTrafficSignalingSystem.dir/clean
 CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/all:
 	$(MAKE) -f CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/build.make CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/depend
 	$(MAKE) -f CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/build.make CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=15 "Built target TrainTrafficSignalingSystem_automoc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=17 "Built target TrainTrafficSignalingSystem_automoc"
 .PHONY : CMakeFiles/TrainTrafficSignalingSystem_automoc.dir/all
 
 # Build rule for subdir invocation for target.
@@ -156,7 +156,7 @@ GUIBackend/preinstall:
 GUIBackend/CMakeFiles/GUIBackend.dir/all: GUIBackend/CMakeFiles/GUIBackend_automoc.dir/all
 	$(MAKE) -f GUIBackend/CMakeFiles/GUIBackend.dir/build.make GUIBackend/CMakeFiles/GUIBackend.dir/depend
 	$(MAKE) -f GUIBackend/CMakeFiles/GUIBackend.dir/build.make GUIBackend/CMakeFiles/GUIBackend.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=7,8,9 "Built target GUIBackend"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=9,10,11 "Built target GUIBackend"
 .PHONY : GUIBackend/CMakeFiles/GUIBackend.dir/all
 
 # Include target in all.
@@ -193,7 +193,7 @@ clean: GUIBackend/CMakeFiles/GUIBackend.dir/clean
 GUIBackend/CMakeFiles/GUIBackend_automoc.dir/all:
 	$(MAKE) -f GUIBackend/CMakeFiles/GUIBackend_automoc.dir/build.make GUIBackend/CMakeFiles/GUIBackend_automoc.dir/depend
 	$(MAKE) -f GUIBackend/CMakeFiles/GUIBackend_automoc.dir/build.make GUIBackend/CMakeFiles/GUIBackend_automoc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=10 "Built target GUIBackend_automoc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=12 "Built target GUIBackend_automoc"
 .PHONY : GUIBackend/CMakeFiles/GUIBackend_automoc.dir/all
 
 # Build rule for subdir invocation for target.
@@ -244,7 +244,7 @@ Domain/preinstall:
 Domain/CMakeFiles/Domain.dir/all: Domain/CMakeFiles/Domain_automoc.dir/all
 	$(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/depend
 	$(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target Domain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Domain"
 .PHONY : Domain/CMakeFiles/Domain.dir/all
 
 # Include target in all.
@@ -254,7 +254,7 @@ all: Domain/CMakeFiles/Domain.dir/all
 
 # Build rule for subdir invocation for target.
 Domain/CMakeFiles/Domain.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/TrainTrafficSignalingSystem/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/TrainTrafficSignalingSystem/build/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 Domain/CMakeFiles/Domain.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /workspace/TrainTrafficSignalingSystem/build/CMakeFiles 0
 .PHONY : Domain/CMakeFiles/Domain.dir/rule
@@ -281,7 +281,7 @@ clean: Domain/CMakeFiles/Domain.dir/clean
 Domain/CMakeFiles/Domain_automoc.dir/all:
 	$(MAKE) -f Domain/CMakeFiles/Domain_automoc.dir/build.make Domain/CMakeFiles/Domain_automoc.dir/depend
 	$(MAKE) -f Domain/CMakeFiles/Domain_automoc.dir/build.make Domain/CMakeFiles/Domain_automoc.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=6 "Built target Domain_automoc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=8 "Built target Domain_automoc"
 .PHONY : Domain/CMakeFiles/Domain_automoc.dir/all
 
 # Build rule for subdir invocation for target.

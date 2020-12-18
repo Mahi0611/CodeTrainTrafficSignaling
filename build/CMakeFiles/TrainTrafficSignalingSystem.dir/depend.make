@@ -9,6 +9,8 @@ CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: ../Domain/DomainEntryPoin
 CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: ../Domain/CommonHeader.h
 CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: ../Domain/JSONLoader.h
 CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: ../Domain/SimulationDispatcher.h
+CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: ../Domain/Station.h
+CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: ../Domain/Train.h
 CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QJsonObject
 CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QObject
 CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o: /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QString

@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Domain.dir/DomainEntryPoint.cpp.o"
   "CMakeFiles/Domain.dir/JSONLoader.cpp.o"
   "CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o"
+  "CMakeFiles/Domain.dir/Train.cpp.o"
+  "CMakeFiles/Domain.dir/Station.cpp.o"
   "CMakeFiles/Domain.dir/Domain_automoc.cpp.o"
   "libDomain.pdb"
   "libDomain.so"

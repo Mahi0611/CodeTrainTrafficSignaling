@@ -248,6 +248,60 @@ SimulationDispatcher.cpp.s:
 	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.s
 .PHONY : SimulationDispatcher.cpp.s
 
+Station.o: Station.cpp.o
+
+.PHONY : Station.o
+
+# target to build an object file
+Station.cpp.o:
+	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Station.cpp.o
+.PHONY : Station.cpp.o
+
+Station.i: Station.cpp.i
+
+.PHONY : Station.i
+
+# target to preprocess a source file
+Station.cpp.i:
+	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Station.cpp.i
+.PHONY : Station.cpp.i
+
+Station.s: Station.cpp.s
+
+.PHONY : Station.s
+
+# target to generate assembly for a file
+Station.cpp.s:
+	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Station.cpp.s
+.PHONY : Station.cpp.s
+
+Train.o: Train.cpp.o
+
+.PHONY : Train.o
+
+# target to build an object file
+Train.cpp.o:
+	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Train.cpp.o
+.PHONY : Train.cpp.o
+
+Train.i: Train.cpp.i
+
+.PHONY : Train.i
+
+# target to preprocess a source file
+Train.cpp.i:
+	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Train.cpp.i
+.PHONY : Train.cpp.i
+
+Train.s: Train.cpp.s
+
+.PHONY : Train.s
+
+# target to generate assembly for a file
+Train.cpp.s:
+	cd /workspace/TrainTrafficSignalingSystem/build && $(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Train.cpp.s
+.PHONY : Train.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -270,6 +324,12 @@ help:
 	@echo "... SimulationDispatcher.o"
 	@echo "... SimulationDispatcher.i"
 	@echo "... SimulationDispatcher.s"
+	@echo "... Station.o"
+	@echo "... Station.i"
+	@echo "... Station.s"
+	@echo "... Train.o"
+	@echo "... Train.i"
+	@echo "... Train.s"
 .PHONY : help
 
 

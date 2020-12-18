@@ -141,6 +141,18 @@
       <Unit filename="/workspace/TrainTrafficSignalingSystem/Domain/SimulationDispatcher.h">
          <Option target="Domain"/>
       </Unit>
+      <Unit filename="/workspace/TrainTrafficSignalingSystem/Domain/Station.cpp">
+         <Option target="Domain"/>
+      </Unit>
+      <Unit filename="/workspace/TrainTrafficSignalingSystem/Domain/Station.h">
+         <Option target="Domain"/>
+      </Unit>
+      <Unit filename="/workspace/TrainTrafficSignalingSystem/Domain/Train.cpp">
+         <Option target="Domain"/>
+      </Unit>
+      <Unit filename="/workspace/TrainTrafficSignalingSystem/Domain/Train.h">
+         <Option target="Domain"/>
+      </Unit>
       <Unit filename="/workspace/TrainTrafficSignalingSystem/CMakeLists.txt">
           <Option virtualFolder="CMake Files\" />
       </Unit>

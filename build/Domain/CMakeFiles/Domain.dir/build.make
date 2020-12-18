@@ -129,9 +129,57 @@ Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o.provides: Domain/CMakeFi
 Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o.provides.build: Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o
 
 
+Domain/CMakeFiles/Domain.dir/Train.cpp.o: Domain/CMakeFiles/Domain.dir/flags.make
+Domain/CMakeFiles/Domain.dir/Train.cpp.o: ../Domain/Train.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Domain/CMakeFiles/Domain.dir/Train.cpp.o"
+	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Domain.dir/Train.cpp.o -c /workspace/TrainTrafficSignalingSystem/Domain/Train.cpp
+
+Domain/CMakeFiles/Domain.dir/Train.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Domain.dir/Train.cpp.i"
+	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /workspace/TrainTrafficSignalingSystem/Domain/Train.cpp > CMakeFiles/Domain.dir/Train.cpp.i
+
+Domain/CMakeFiles/Domain.dir/Train.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Domain.dir/Train.cpp.s"
+	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /workspace/TrainTrafficSignalingSystem/Domain/Train.cpp -o CMakeFiles/Domain.dir/Train.cpp.s
+
+Domain/CMakeFiles/Domain.dir/Train.cpp.o.requires:
+
+.PHONY : Domain/CMakeFiles/Domain.dir/Train.cpp.o.requires
+
+Domain/CMakeFiles/Domain.dir/Train.cpp.o.provides: Domain/CMakeFiles/Domain.dir/Train.cpp.o.requires
+	$(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Train.cpp.o.provides.build
+.PHONY : Domain/CMakeFiles/Domain.dir/Train.cpp.o.provides
+
+Domain/CMakeFiles/Domain.dir/Train.cpp.o.provides.build: Domain/CMakeFiles/Domain.dir/Train.cpp.o
+
+
+Domain/CMakeFiles/Domain.dir/Station.cpp.o: Domain/CMakeFiles/Domain.dir/flags.make
+Domain/CMakeFiles/Domain.dir/Station.cpp.o: ../Domain/Station.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Domain/CMakeFiles/Domain.dir/Station.cpp.o"
+	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Domain.dir/Station.cpp.o -c /workspace/TrainTrafficSignalingSystem/Domain/Station.cpp
+
+Domain/CMakeFiles/Domain.dir/Station.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Domain.dir/Station.cpp.i"
+	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /workspace/TrainTrafficSignalingSystem/Domain/Station.cpp > CMakeFiles/Domain.dir/Station.cpp.i
+
+Domain/CMakeFiles/Domain.dir/Station.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Domain.dir/Station.cpp.s"
+	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /workspace/TrainTrafficSignalingSystem/Domain/Station.cpp -o CMakeFiles/Domain.dir/Station.cpp.s
+
+Domain/CMakeFiles/Domain.dir/Station.cpp.o.requires:
+
+.PHONY : Domain/CMakeFiles/Domain.dir/Station.cpp.o.requires
+
+Domain/CMakeFiles/Domain.dir/Station.cpp.o.provides: Domain/CMakeFiles/Domain.dir/Station.cpp.o.requires
+	$(MAKE) -f Domain/CMakeFiles/Domain.dir/build.make Domain/CMakeFiles/Domain.dir/Station.cpp.o.provides.build
+.PHONY : Domain/CMakeFiles/Domain.dir/Station.cpp.o.provides
+
+Domain/CMakeFiles/Domain.dir/Station.cpp.o.provides.build: Domain/CMakeFiles/Domain.dir/Station.cpp.o
+
+
 Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o: Domain/CMakeFiles/Domain.dir/flags.make
 Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o: Domain/Domain_automoc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o"
 	cd /workspace/TrainTrafficSignalingSystem/build/Domain && /usr/bin/g++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Domain.dir/Domain_automoc.cpp.o -c /workspace/TrainTrafficSignalingSystem/build/Domain/Domain_automoc.cpp
 
 Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.i: cmake_force
@@ -158,6 +206,8 @@ Domain_OBJECTS = \
 "CMakeFiles/Domain.dir/DomainEntryPoint.cpp.o" \
 "CMakeFiles/Domain.dir/JSONLoader.cpp.o" \
 "CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o" \
+"CMakeFiles/Domain.dir/Train.cpp.o" \
+"CMakeFiles/Domain.dir/Station.cpp.o" \
 "CMakeFiles/Domain.dir/Domain_automoc.cpp.o"
 
 # External object files for target Domain
@@ -166,6 +216,8 @@ Domain_EXTERNAL_OBJECTS =
 Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/DomainEntryPoint.cpp.o
 Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/JSONLoader.cpp.o
 Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o
+Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/Train.cpp.o
+Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/Station.cpp.o
 Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o
 Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/build.make
 Domain/libDomain.so: /opt/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Widgets.so.5.10.0
@@ -177,7 +229,7 @@ Domain/libDomain.so: /opt/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Qml.so.5.10.0
 Domain/libDomain.so: /opt/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Network.so.5.10.0
 Domain/libDomain.so: /opt/Qt5.10.0/5.10.0/gcc_64/lib/libQt5Core.so.5.10.0
 Domain/libDomain.so: Domain/CMakeFiles/Domain.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX shared library libDomain.so"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/workspace/TrainTrafficSignalingSystem/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX shared library libDomain.so"
 	cd /workspace/TrainTrafficSignalingSystem/build/Domain && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Domain.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -188,6 +240,8 @@ Domain/CMakeFiles/Domain.dir/build: Domain/libDomain.so
 Domain/CMakeFiles/Domain.dir/requires: Domain/CMakeFiles/Domain.dir/DomainEntryPoint.cpp.o.requires
 Domain/CMakeFiles/Domain.dir/requires: Domain/CMakeFiles/Domain.dir/JSONLoader.cpp.o.requires
 Domain/CMakeFiles/Domain.dir/requires: Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o.requires
+Domain/CMakeFiles/Domain.dir/requires: Domain/CMakeFiles/Domain.dir/Train.cpp.o.requires
+Domain/CMakeFiles/Domain.dir/requires: Domain/CMakeFiles/Domain.dir/Station.cpp.o.requires
 Domain/CMakeFiles/Domain.dir/requires: Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o.requires
 
 .PHONY : Domain/CMakeFiles/Domain.dir/requires

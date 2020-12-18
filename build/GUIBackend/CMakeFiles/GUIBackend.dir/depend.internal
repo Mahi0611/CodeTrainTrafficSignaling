@@ -6,6 +6,8 @@ GUIBackend/CMakeFiles/GUIBackend.dir/GUIBackend.cpp.o
  ../GUIBackend/../Domain/DomainEntryPoint.h
  ../GUIBackend/../Domain/JSONLoader.h
  ../GUIBackend/../Domain/SimulationDispatcher.h
+ ../GUIBackend/../Domain/Station.h
+ ../GUIBackend/../Domain/Train.h
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QJsonObject
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QObject
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QString
@@ -82,6 +84,8 @@ GUIBackend/CMakeFiles/GUIBackend.dir/GUIBackend_automoc.cpp.o
  ../GUIBackend/../Domain/DomainEntryPoint.h
  ../GUIBackend/../Domain/JSONLoader.h
  ../GUIBackend/../Domain/SimulationDispatcher.h
+ ../GUIBackend/../Domain/Station.h
+ ../GUIBackend/../Domain/Train.h
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QJsonObject
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QObject
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QString

@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/workspace/TrainTrafficSignalingSystem/build/Domain/Domain_automoc.cpp" "/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain.dir/Domain_automoc.cpp.o"
   "/workspace/TrainTrafficSignalingSystem/Domain/JSONLoader.cpp" "/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain.dir/JSONLoader.cpp.o"
   "/workspace/TrainTrafficSignalingSystem/Domain/SimulationDispatcher.cpp" "/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain.dir/SimulationDispatcher.cpp.o"
+  "/workspace/TrainTrafficSignalingSystem/Domain/Station.cpp" "/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain.dir/Station.cpp.o"
+  "/workspace/TrainTrafficSignalingSystem/Domain/Train.cpp" "/workspace/TrainTrafficSignalingSystem/build/Domain/CMakeFiles/Domain.dir/Train.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

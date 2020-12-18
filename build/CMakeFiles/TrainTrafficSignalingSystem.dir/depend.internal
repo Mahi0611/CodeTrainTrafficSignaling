@@ -10,6 +10,8 @@ CMakeFiles/TrainTrafficSignalingSystem.dir/main.cpp.o
  ../Domain/CommonHeader.h
  ../Domain/JSONLoader.h
  ../Domain/SimulationDispatcher.h
+ ../Domain/Station.h
+ ../Domain/Train.h
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QJsonObject
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QObject
  /opt/Qt5.10.0/5.10.0/gcc_64/include/QtCore/QString

@@ -21,6 +21,8 @@ SET(DOMAIN_SOURCES
     DomainEntryPoint.cpp
     JSONLoader.cpp
     SimulationDispatcher.cpp
+    Train.cpp
+    Station.cpp
 )
 
 SET(DOMAIN_HEADERS
@@ -28,6 +30,8 @@ SET(DOMAIN_HEADERS
     DomainEntryPoint.h
     JSONLoader.h
     SimulationDispatcher.h
+    Train.h
+    Station.h
 )
 INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/..)
 

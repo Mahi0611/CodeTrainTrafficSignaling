@@ -59,6 +59,7 @@ class GUIBackend: public QObject
     void SetListAdjecencyforLocation(const QVariantMap &val);
 
     signals:
+        void StartSimulationChanged(bool status);
         void MaxTrackCountChanged(int val);
         void CurruntTrackCountChanged(int val);
         void MaxTrainCountChanged(int val);

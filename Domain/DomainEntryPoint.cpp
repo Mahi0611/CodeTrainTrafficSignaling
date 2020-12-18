@@ -30,7 +30,7 @@ bool DomainEntryPoint::GetStartSimulation() const
 
 void DomainEntryPoint::SetStartSimulation(const bool &val)
 {
-   SimulationDispatcherInstance->StartSimulation();
+//   SimulationDispatcherInstance->StartSimulation();
 }
 
 int DomainEntryPoint::GetMaxTrackCount() const
